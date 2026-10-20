@@ -112,3 +112,6 @@
 **原来还有这样的选择，原来我现在就可以开始准备。**
 
 希望这本手册，能让更多同学知道力气可以往哪里使，让家庭已经尽力托举的孩子，在进入大学后，也能获得更多继续向前的支持。
+
+## https://www.bilibili.com/video/BV1F3JZ6SEdb/?buvid=Y4437C42491F7F03420DA977223C8FB1C0EB&is_story_h5=false&mid=wy9qOszRtDNa3lgrxCI9Mw%3D%3D&plat_id=240&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1792465690&unique_k=h90NXLD&up_id=431298736 
+## 上述链接是理工一位十佳毕业生学长（目前浙大国家奖学金获得者）b站进行的一些电力电子相关知识分享，感兴趣的同学可以自行查阅~
